@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\user\desktop\health - test 01\opencvtest\source.cpp(293): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\health - test 01\opencvtest\source.cpp(295): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\health - test 01\opencvtest\source.cpp(298): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\health - test 01\opencvtest\source.cpp(300): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\health - test 01\opencvtest\source.cpp(302): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\health - test 01\opencvtest\source.cpp(305): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\health - test 01\opencvtest\source.cpp(344): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Utilities.cpp
+  opencvTest.vcxproj -> C:\Users\User\Desktop\health - test 01\x64\Debug\opencvTest.exe
